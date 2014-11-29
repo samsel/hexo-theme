@@ -1,7 +1,7 @@
 # config
 cover: /img/img-bg.jpg
 logo: /img/logo.svg
-bio: 作为挨踢业的伪设计狮伪技术牛 搬过砖也种过地：爱看、爱听、爱玩儿、爱折腾、机械水电、泥瓦木匠啥都来
+bio: the programmer in me...
 
 # Content
 excerpt_link: Read More
@@ -9,11 +9,8 @@ excerpt_link: Read More
 # Header  nav
 menu:
   Home: /
-  Archive: /archive
-  Images: /images
-  Wiki: /wiki/2014-10-28-wiki/
-  Favorites: /favorites
-  Contact: /about/2014-09-11-mabao/
+  Projects: /projects
+  About: /about
 
 ##Private: /private
 
@@ -30,9 +27,9 @@ navclass:
 rss: /atom.xml
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-42793939-1
 favicon: /favicon.png
-twitter:
+twitter: sam_twite
 google_plus:
 fb_admins:
 fb_app_id:
